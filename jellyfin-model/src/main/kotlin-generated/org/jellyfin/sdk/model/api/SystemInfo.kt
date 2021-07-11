@@ -58,7 +58,7 @@ public data class SystemInfo(
 	@SerialName("OperatingSystemDisplayName")
 	public val operatingSystemDisplayName: String? = null,
 	/**
-	 * Get or sets the package name.
+	 * Gets or sets the package name.
 	 */
 	@SerialName("PackageName")
 	public val packageName: String? = null,
